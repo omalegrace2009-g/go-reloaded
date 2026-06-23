@@ -20,9 +20,9 @@ This project focuses on file handling, string manipulation, text formatting, and
 
 ---
 
-## Authors
+## Author
 
-* Ooja Omale (@oomale)
+* Omale Grace
 
 ---
 
